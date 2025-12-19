@@ -1,0 +1,4 @@
+baseURL = "https://www.justeazy.de/"
+languageCode = "de-de"
+title = "Henriks Domain"
+disableKinds = ["taxonomy", "term", "RSS"]
