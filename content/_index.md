@@ -1,10 +1,10 @@
-Willkommen.
+Welcome.
 
-Diese Domain ist mein persönlicher digitaler Ankerpunkt.
+This is my personal domain.
 
 ## Links
-- [E-Mail](mailto:du@deinedomain.de)
-- [GitHub](https://github.com/deinname)
-- [LinkedIn](https://linkedin.com/in/deinname)
+- [E-Mail](mailto:wollekuel@gmx.de)
+- [Strava](https://www.strava.com/athletes/9546376)
+- [LinkedIn](https://www.linkedin.com/in/henrik-liesner-06b0131aa/)
 
-Mehr gibt es hier nicht – und das ist Absicht.
+This is it. This is intended.

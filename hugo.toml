@@ -1,4 +1,4 @@
 baseURL = "https://www.justeazy.de/"
 languageCode = "de-de"
-title = "Henriks Domain"
+title = "justeazy.de"
 disableKinds = ["taxonomy", "term", "RSS"]
