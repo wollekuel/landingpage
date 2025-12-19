@@ -1,4 +1,4 @@
-baseURL = "https://www.justeazy.de/"
+baseURL = "http://www.justeazy.de/"
 languageCode = "de-de"
 title = "justeazy.de"
 disableKinds = ["taxonomy", "term", "RSS"]
