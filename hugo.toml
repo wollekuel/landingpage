@@ -1,4 +1,4 @@
-baseURL = "http://www.justeazy.de/"
+baseURL = "https://wollekuel.github.io/landingpage"
 languageCode = "de-de"
 title = "justeazy.de"
 disableKinds = ["taxonomy", "term", "RSS"]
