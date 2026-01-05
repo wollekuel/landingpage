@@ -1,6 +1,6 @@
 Welcome.
 
-This is my personal domain.
+This is my personal anchor point.
 
 ## Links
 - [E-Mail](mailto:wollekuel@gmx.de)
